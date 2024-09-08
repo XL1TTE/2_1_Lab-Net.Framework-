@@ -1,0 +1,11 @@
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\bin\Debug\2_1Lab(Net.Framework).Application.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\bin\Debug\2_1Lab(Net.Framework).Application.pdb
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\bin\Debug\2_1Lab(Net.Framework).Domain.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\bin\Debug\2_1Lab(Net.Framework).Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\bin\Debug\2_1Lab(Net.Framework).Domain.pdb
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\bin\Debug\2_1Lab(Net.Framework).Infrastracture.pdb
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\obj\Debug\2_1Lab(Net.Framework).Application.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\obj\Debug\2_1Lab(Net.Framework).Application.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\obj\Debug\2_1Lab(N.3905F2CE.Up2Date
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\obj\Debug\2_1Lab(Net.Framework).Application.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Application\obj\Debug\2_1Lab(Net.Framework).Application.pdb

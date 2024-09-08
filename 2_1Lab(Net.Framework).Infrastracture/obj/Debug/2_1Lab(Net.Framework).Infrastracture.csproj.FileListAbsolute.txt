@@ -1,0 +1,9 @@
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\bin\Debug\2_1Lab(Net.Framework).Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\bin\Debug\2_1Lab(Net.Framework).Infrastracture.pdb
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\bin\Debug\2_1Lab(Net.Framework).Domain.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\bin\Debug\2_1Lab(Net.Framework).Domain.pdb
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\obj\Debug\2_1Lab(Net.Framework).Infrastracture.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\obj\Debug\2_1Lab(Net.Framework).Infrastracture.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\obj\Debug\2_1Lab(N.7226A78A.Up2Date
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\obj\Debug\2_1Lab(Net.Framework).Infrastracture.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Infrastracture\obj\Debug\2_1Lab(Net.Framework).Infrastracture.pdb

@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7696A396-809C-48BA-A2CE-C9375DECF15F}|2_1Lab(Net.Framework).ConsoleClient\\2_1Lab(Net.Framework).ConsoleClient.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).consoleclient\\studentconsolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7696A396-809C-48BA-A2CE-C9375DECF15F}|2_1Lab(Net.Framework).ConsoleClient\\2_1Lab(Net.Framework).ConsoleClient.csproj|solutionrelative:2_1lab(net.framework).consoleclient\\studentconsolehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7696A396-809C-48BA-A2CE-C9375DECF15F}|2_1Lab(Net.Framework).ConsoleClient\\2_1Lab(Net.Framework).ConsoleClient.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7696A396-809C-48BA-A2CE-C9375DECF15F}|2_1Lab(Net.Framework).ConsoleClient\\2_1Lab(Net.Framework).ConsoleClient.csproj|solutionrelative:2_1lab(net.framework).consoleclient\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\controls\\studenttableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\controls\\studenttableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\controls\\studentgraphicsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\controls\\studentgraphicsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\controls\\studentgraphicsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\controls\\studentgraphicsview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\services\\navigationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\controls\\studenttableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\controls\\studenttableview.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91A6CAD-6A53-4B4A-A532-E5B22A4BF4D9}|2_1Lab(Net.Framework).Domain\\2_1Lab(Net.Framework).Domain.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).domain\\istores\\istudentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91A6CAD-6A53-4B4A-A532-E5B22A4BF4D9}|2_1Lab(Net.Framework).Domain\\2_1Lab(Net.Framework).Domain.csproj|solutionrelative:2_1lab(net.framework).domain\\istores\\istudentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D2FE301F-40A5-4E59-BBF6-DAE7675E17DC}|2_1Lab(Net.Framework).Application\\2_1Lab(Net.Framework).Application.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).application\\studentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D2FE301F-40A5-4E59-BBF6-DAE7675E17DC}|2_1Lab(Net.Framework).Application\\2_1Lab(Net.Framework).Application.csproj|solutionrelative:2_1lab(net.framework).application\\studentstore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB8D015E-CF45-4DA5-9618-C2D4DADE1666}|2_1Lab(Net.Framework).Infrastracture\\2_1Lab(Net.Framework).Infrastracture.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).infrastracture\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB8D015E-CF45-4DA5-9618-C2D4DADE1666}|2_1Lab(Net.Framework).Infrastracture\\2_1Lab(Net.Framework).Infrastracture.csproj|solutionrelative:2_1lab(net.framework).infrastracture\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\studentlistform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E0A5ED77-053B-453A-AE19-1118AC2E55C8}|2_1Lab(Net.Framework).WinForms\\2_1Lab(Net.Framework).WinForms.csproj|solutionrelative:2_1lab(net.framework).winforms\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91A6CAD-6A53-4B4A-A532-E5B22A4BF4D9}|2_1Lab(Net.Framework).Domain\\2_1Lab(Net.Framework).Domain.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91A6CAD-6A53-4B4A-A532-E5B22A4BF4D9}|2_1Lab(Net.Framework).Domain\\2_1Lab(Net.Framework).Domain.csproj|solutionrelative:2_1lab(net.framework).domain\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A91A6CAD-6A53-4B4A-A532-E5B22A4BF4D9}|2_1Lab(Net.Framework).Domain\\2_1Lab(Net.Framework).Domain.csproj|c:\\users\\zzzxl\\source\\repos\\2_1lab(net.framework)\\2_1lab(net.framework).domain\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A91A6CAD-6A53-4B4A-A532-E5B22A4BF4D9}|2_1Lab(Net.Framework).Domain\\2_1Lab(Net.Framework).Domain.csproj|solutionrelative:2_1lab(net.framework).domain\\irepositories\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentConsoleHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).ConsoleClient\\StudentConsoleHandler.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).ConsoleClient\\StudentConsoleHandler.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).ConsoleClient\\StudentConsoleHandler.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).ConsoleClient\\StudentConsoleHandler.cs",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAYwFIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:50:30.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).ConsoleClient\\Program.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).ConsoleClient\\Program.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).ConsoleClient\\Program.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).ConsoleClient\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBQAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:48:28.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentListForm.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\StudentListForm.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\StudentListForm.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\StudentListForm.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAowBkAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:05:35.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentTableView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs [Design]",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:52:51.492Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentGraphicsView.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAwwDEAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T06:03:14.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentGraphicsView.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs [Design]",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentGraphicsView.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T05:59:52.105Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NavigationService.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Services\\NavigationService.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\Services\\NavigationService.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Services\\NavigationService.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\Services\\NavigationService.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAA1wB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:47:02.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentTableView.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\Controls\\StudentTableView.cs",
+              "ViewState": "AQIAAHgAAAAAAAAAAAApwIsAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:57:20.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IStudentStore.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Domain\\IStores\\IStudentStore.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).Domain\\IStores\\IStudentStore.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Domain\\IStores\\IStudentStore.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).Domain\\IStores\\IStudentStore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:39:56.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Infrastracture\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).Infrastracture\\StudentRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Infrastracture\\StudentRepository.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).Infrastracture\\StudentRepository.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA/wCoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:41:26.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentStore.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Application\\StudentStore.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).Application\\StudentStore.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Application\\StudentStore.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).Application\\StudentStore.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAswDAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:42:16.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StudentListForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\StudentListForm.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\StudentListForm.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\StudentListForm.cs [Design]",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\StudentListForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:52:07.689Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Program.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).WinForms\\Program.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).WinForms\\Program.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).WinForms\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:47:42.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Domain\\Student.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).Domain\\Student.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Domain\\Student.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).Domain\\Student.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAswCUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:38:40.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Domain\\IRepositories\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "2_1Lab(Net.Framework).Domain\\IRepositories\\IStudentRepository.cs",
+              "ToolTip": "C:\\Users\\zzzxl\\source\\repos\\2_1Lab(Net.Framework)\\2_1Lab(Net.Framework).Domain\\IRepositories\\IStudentRepository.cs",
+              "RelativeToolTip": "2_1Lab(Net.Framework).Domain\\IRepositories\\IStudentRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T04:39:40.837Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

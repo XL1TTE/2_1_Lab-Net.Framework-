@@ -1,0 +1,6 @@
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Domain\bin\Debug\2_1Lab(Net.Framework).Domain.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Domain\bin\Debug\2_1Lab(Net.Framework).Domain.pdb
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Domain\obj\Debug\2_1Lab(Net.Framework).Domain.csproj.AssemblyReference.cache
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Domain\obj\Debug\2_1Lab(Net.Framework).Domain.csproj.CoreCompileInputs.cache
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Domain\obj\Debug\2_1Lab(Net.Framework).Domain.dll
+C:\Users\zzzxl\source\repos\2_1Lab(Net.Framework)\2_1Lab(Net.Framework).Domain\obj\Debug\2_1Lab(Net.Framework).Domain.pdb
