@@ -1,7 +1,7 @@
 ﻿using _2_1Lab_Net.Framework_.Application;
-using _2_1Lab_Net.Framework_.Domain.IRepositories;
-using _2_1Lab_Net.Framework_.Domain.IStores;
+using _2_1Lab_Net.Framework_.Application.IStores;
 using _2_1Lab_Net.Framework_.Infrastracture;
+using _2_1Lab_Net.Framework_.Infrastracture.IRepositories;
 using Microsoft.Extensions.DependencyInjection;
 using System;
 using System.Collections.Generic;
@@ -16,7 +16,7 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
         static void Main(string[] args)
         {
             var _serviceProvider = new ServiceCollection()
-            .AddSingleton<IStudentStore, StudentStore>()
+            .AddSingleton<IStudentService, StudentService>()
             .AddSingleton<IStudentRepository, StudentRepository>()
             .AddSingleton<StudentConsoleHandler>()
             .BuildServiceProvider();
@@ -44,8 +44,10 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
                     case "3":
                         StudentConsoleHandler.UpdateStudent();
                         break;
-
                     case "4":
+                        StudentConsoleHandler.GetStudentSpecialitiesData();
+                        break;
+                    case "5":
                         Exit = true;
                         break;
                 }

@@ -1,5 +1,5 @@
 ﻿using _2_1Lab_Net.Framework_.Domain;
-using _2_1Lab_Net.Framework_.Domain.IRepositories;
+using _2_1Lab_Net.Framework_.Infrastracture.IRepositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;

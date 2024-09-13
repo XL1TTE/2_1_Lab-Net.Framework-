@@ -1,10 +1,11 @@
-﻿using System;
+﻿using _2_1Lab_Net.Framework_.Domain;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2_1Lab_Net.Framework_.Domain.IRepositories
+namespace _2_1Lab_Net.Framework_.Infrastracture.IRepositories
 {
     public interface IStudentRepository
     {

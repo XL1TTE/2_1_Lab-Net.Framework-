@@ -1,4 +1,4 @@
-﻿using _2_1Lab_Net.Framework_.Domain.IStores;
+﻿using _2_1Lab_Net.Framework_.Application.IStores;
 using _2_1Lab_Net.Framework_.WinForms.Services;
 using LiveCharts;
 using LiveCharts.WinForms;
@@ -16,9 +16,9 @@ namespace _2_1Lab_Net.Framework_.WinForms.Controls
 {
     public partial class StudentGraphicsView : UserControl
     {
-        private IStudentStore _studentStore;
+        private IStudentService _studentStore;
         private INavigationService _navigationService;
-        public StudentGraphicsView(IStudentStore studentStore, INavigationService navigationService)
+        public StudentGraphicsView(IStudentService studentStore, INavigationService navigationService)
         {
             _studentStore = studentStore;
             _navigationService = navigationService;

@@ -1,6 +1,7 @@
-﻿using _2_1Lab_Net.Framework_.Domain;
-using _2_1Lab_Net.Framework_.Domain.IRepositories;
-using _2_1Lab_Net.Framework_.Domain.IStores;
+﻿using _2_1Lab_Net.Framework_.Application.DataTransferObjects;
+using _2_1Lab_Net.Framework_.Application.IStores;
+using _2_1Lab_Net.Framework_.Domain;
+using _2_1Lab_Net.Framework_.Infrastracture.IRepositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,37 +10,41 @@ using System.Threading.Tasks;
 
 namespace _2_1Lab_Net.Framework_.Application
 {
-    public class StudentStore : IStudentStore
+    public class StudentService : IStudentService
     {
-        public StudentStore(IStudentRepository studentRepository)
+        public IStudentRepository studentRepository { get; set; }
+        public StudentService(IStudentRepository studentRepository)
         {
             this.studentRepository = studentRepository;
         }
-        public IStudentRepository studentRepository { get; set; }
 
-
-        public bool IsStudentExist(Student student)
+        public bool IsStudentExist(StudentDto studentDto)
         {
+            var student = DtoMappers.StudentMapper(studentDto);
             return studentRepository.IsStudentExist(student);
         }
-        public void AddStudent(Student student)
+        public void AddStudent(StudentDto studentDto)
         {
+            var student = DtoMappers.StudentMapper(studentDto);
             studentRepository.AddStudent(student);
         }
 
-        public void UpdateStudent(Student studentToUpdate, Student student)
+        public void UpdateStudent(StudentDto studentToUpdate, StudentDto studentDto)
         {
-            studentRepository.UpdateStudent(studentToUpdate, student);
+            var StudentToUpdate = DtoMappers.StudentMapper(studentToUpdate);
+            var Student = DtoMappers.StudentMapper(studentDto);
+            studentRepository.UpdateStudent(StudentToUpdate, Student);
         }
 
-        public List<Student> GetAllStudents()
+        public List<StudentDto> GetAllStudents()
         {
-            return studentRepository.GetAllStudents();
+            return DtoMappers.StudentMapper(studentRepository.GetAllStudents());
         }
 
-        public void RemoveStudent(Student student)
+        public void RemoveStudent(StudentDto student)
         {
-            studentRepository.RemoveStudent(student);
+            var Student = DtoMappers.StudentMapper(student);
+            studentRepository.RemoveStudent(Student);
         }
 
         /// <summary>

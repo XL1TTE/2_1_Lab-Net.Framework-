@@ -71,10 +71,6 @@
       <Project>{d2fe301f-40a5-4e59-bbf6-dae7675e17dc}</Project>
       <Name>2_1Lab%28Net.Framework%29.Application</Name>
     </ProjectReference>
-    <ProjectReference Include="..\2_1Lab%28Net.Framework%29.Domain\2_1Lab%28Net.Framework%29.Domain.csproj">
-      <Project>{a91a6cad-6a53-4b4a-a532-e5b22a4bf4d9}</Project>
-      <Name>2_1Lab%28Net.Framework%29.Domain</Name>
-    </ProjectReference>
     <ProjectReference Include="..\2_1Lab%28Net.Framework%29.Infrastracture\2_1Lab%28Net.Framework%29.Infrastracture.csproj">
       <Project>{eb8d015e-cf45-4da5-9618-c2d4dade1666}</Project>
       <Name>2_1Lab%28Net.Framework%29.Infrastracture</Name>

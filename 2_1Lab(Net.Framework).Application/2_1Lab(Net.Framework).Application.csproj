@@ -41,8 +41,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DataTransferObjects\DtoMappers.cs" />
+    <Compile Include="DataTransferObjects\StudentDto.cs" />
+    <Compile Include="IStores\IStudentService.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StudentStore.cs" />
+    <Compile Include="StudentService.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\2_1Lab%28Net.Framework%29.Domain\2_1Lab%28Net.Framework%29.Domain.csproj">

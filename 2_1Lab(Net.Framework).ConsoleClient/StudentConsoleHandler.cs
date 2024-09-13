@@ -1,5 +1,6 @@
-﻿using _2_1Lab_Net.Framework_.Domain.IStores;
-using _2_1Lab_Net.Framework_.Domain;
+﻿
+using _2_1Lab_Net.Framework_.Application.DataTransferObjects;
+using _2_1Lab_Net.Framework_.Application.IStores;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -10,8 +11,8 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
 {
     public class StudentConsoleHandler
     {
-        private IStudentStore _studentStore;
-        public StudentConsoleHandler(IStudentStore studentStore)
+        private IStudentService _studentStore;
+        public StudentConsoleHandler(IStudentService studentStore)
         {
             _studentStore = studentStore;
         }
@@ -33,7 +34,7 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
 
         }
 
-        private Student ConsoleBuildStudent()
+        private StudentDto ConsoleBuildStudent()
         {
             Console.WriteLine("Введите имя: ");
 
@@ -47,17 +48,22 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
 
             var speciality = Console.ReadLine();
 
-            return new Student(name, speciality, group);
+            return new StudentDto(name, group, speciality);
         }
 
+        /// <summary>
+        /// Updates console and shows list of commands.
+        /// </summary>
         public void UpdateConsole()
         {
             Console.Clear();
             OutputAllStudentsToConsole();
-            Console.WriteLine("\n Комманды: \n1. Добавить студента. \n2. Удалить студента. \n3. Обновить студента. \n4. Выйти.");
+            Console.WriteLine("\n Комманды: \n1. Добавить студента. \n2. Удалить студента. \n3. Обновить студента. \n4. Студенты по специальностям. \n5. Выйти.");
 
         }
-
+        /// <summary>
+        /// Adds student to DataBase with Console.
+        /// </summary>
         public void AddStudent()
         {
             var student = ConsoleBuildStudent();
@@ -65,7 +71,9 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
             UpdateConsole();
 
         }
-
+        /// <summary>
+        /// Removes student from DataBase with Console.
+        /// </summary>
         public void RemoveStudent()
         {
             Console.WriteLine("Какого студента удалить (Введите номер)");
@@ -75,17 +83,35 @@ namespace _2_1Lab_Net.Framework_.ConsoleClient
             _studentStore.RemoveStudent(student);
             UpdateConsole();
         }
-
+        /// <summary>
+        /// Update Student in DataBase with Console.
+        /// </summary>
         public void UpdateStudent()
         {
             Console.WriteLine("Какого студента обновить (Введите номер)");
             var index = Int32.Parse(Console.ReadLine()) - 1;
             var student = ConsoleBuildStudent();
+            var studentToUpdate = _studentStore.GetAllStudents()[index];
 
-            _studentStore.GetAllStudents()[index] = student;
+            _studentStore.UpdateStudent(studentToUpdate, student);
             UpdateConsole();
         }
 
+        public void GetStudentSpecialitiesData()
+        {
+            string result = "....Распределение... \n\n";
 
+            (List<string>, List<int>) data = _studentStore.GetStudentSpecialitiesData();
+            var SpecNames = data.Item1;
+            var StudentCounts = data.Item2;
+
+            for(int i = 0; i < SpecNames.Count(); i++)
+            {
+                result += $"{SpecNames[i]} - {StudentCounts[i]} \n";
+            }
+            UpdateConsole();
+            Console.WriteLine(result);
+
+        }
     }
 }

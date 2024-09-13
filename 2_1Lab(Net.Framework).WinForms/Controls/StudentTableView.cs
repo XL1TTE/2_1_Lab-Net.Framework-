@@ -1,5 +1,5 @@
-﻿using _2_1Lab_Net.Framework_.Domain;
-using _2_1Lab_Net.Framework_.Domain.IStores;
+﻿using _2_1Lab_Net.Framework_.Application.DataTransferObjects;
+using _2_1Lab_Net.Framework_.Application.IStores;
 using _2_1Lab_Net.Framework_.WinForms.Services;
 using System;
 using System.Collections.Generic;
@@ -24,15 +24,15 @@ namespace _2_1Lab_Net.Framework_.WinForms.Controls
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propName));
         }
 
-        private ObservableCollection<Student> studentsToShow;
-        public ObservableCollection<Student> StudentToShow
+        private ObservableCollection<StudentDto> studentsToShow;
+        public ObservableCollection<StudentDto> StudentToShow
         {
             get { return studentsToShow; }
             set { studentsToShow = value; OnPropertyChanged(); }
         }
-        private readonly IStudentStore _studentStore;
+        private readonly IStudentService _studentStore;
         private readonly INavigationService _navigationService;
-        public StudentTableView(IStudentStore studentStore, INavigationService navigationService)
+        public StudentTableView(IStudentService studentStore, INavigationService navigationService)
         {
             _studentStore = studentStore;
             _navigationService = navigationService;
@@ -42,7 +42,7 @@ namespace _2_1Lab_Net.Framework_.WinForms.Controls
 
         private void LoadStudentData()
         {
-            StudentToShow = new ObservableCollection<Student>(_studentStore.GetAllStudents());
+            StudentToShow = new ObservableCollection<StudentDto>(_studentStore.GetAllStudents());
 
             StudentTable.DataSource = StudentToShow;
                 
@@ -65,7 +65,6 @@ namespace _2_1Lab_Net.Framework_.WinForms.Controls
             {
                 MessageBox.Show("Студент с такими данными уже существует, если хотите изменить его данные, нажмите кнопку изменить.");
             }
-
 
         }
         private void DeleteStudentButton_Click(object sender, EventArgs e)
@@ -90,9 +89,9 @@ namespace _2_1Lab_Net.Framework_.WinForms.Controls
             }
         }
 
-        private Student BuildStudentFromForm()
+        private StudentDto BuildStudentFromForm()
         {
-            var student = new Student
+            var student = new StudentDto
             {
                 Name = StudentNameBox.Text,
                 Speciality = StudentSpecialityBox.Text,
@@ -102,14 +101,14 @@ namespace _2_1Lab_Net.Framework_.WinForms.Controls
             return student;
         }
 
-        private Student BuildStudentFromTable()
+        private StudentDto BuildStudentFromTable()
         {
             if (StudentTable.SelectedRows.Count > 0)
             {
 
                 DataGridViewRow selectedRow = StudentTable.SelectedRows[0];
 
-                Student student = (Student)selectedRow.DataBoundItem;
+                StudentDto student = (StudentDto)selectedRow.DataBoundItem;
 
                 return student;
             }

@@ -1,7 +1,7 @@
 ﻿using _2_1Lab_Net.Framework_.Application;
-using _2_1Lab_Net.Framework_.Domain.IRepositories;
-using _2_1Lab_Net.Framework_.Domain.IStores;
+using _2_1Lab_Net.Framework_.Application.IStores;
 using _2_1Lab_Net.Framework_.Infrastracture;
+using _2_1Lab_Net.Framework_.Infrastracture.IRepositories;
 using _2_1Lab_Net.Framework_.WinForms.Controls;
 using _2_1Lab_Net.Framework_.WinForms.Services;
 using Microsoft.Extensions.DependencyInjection;
@@ -23,7 +23,7 @@ namespace _2_1Lab_Net.Framework_.WinForms
         {
             var serviceProvider = new ServiceCollection()
                 .AddSingleton<IStudentRepository, StudentRepository>()
-                .AddSingleton<IStudentStore, StudentStore>()
+                .AddSingleton<IStudentService, StudentService>()
                 .AddSingleton<StudentListForm>()
                 .AddSingleton<StudentTableView>()
                 .AddSingleton<StudentGraphicsView>()
